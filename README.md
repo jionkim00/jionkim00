@@ -1,4 +1,5 @@
 ### Hi there 👋
+Please visit my [portfolio website](www.jionkim.com/about) to learn more about me and what I'm up to
 
 <!--
 **jionkim00/jionkim00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
