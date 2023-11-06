@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile. My name is Jion Kim, and I am a Master of Science candidate in Computer Science at Georgia Tech currently seeking entry-level and internship opportunities in Software and IT Engineering. Here you will find personal projects of mine that showcase my interests within and beyond programming as well as some coursework material that demonstrate my strengths.
 
+If you wish to look at my GaTech Enterprise Github which has more activity throughout the school year, let me know. I will be glad to provide you with some of my work that cannot be displayed publicly here on my profile.
+
 Please visit my [portfolio website](https://www.jionkim.com/about) to learn more about me and what I'm up to.
 
 <!--
